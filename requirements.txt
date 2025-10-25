@@ -1,10 +1,3 @@
-http.server
-math
-random
 tkinter
 customtkinter
-threading
-json
-time
-base64
 requests
